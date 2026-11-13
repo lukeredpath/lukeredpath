@@ -1,5 +1,5 @@
-### Hi, I'm Luke 👋🏻
+Hi, I'm Luke 👋🏻
 
-I'm an iOS and Ruby developer from Colchester, UK. I'm an iOS engineer at Community.com where I also lead the mobile guild.
+I'm a software engineer from Colchester, UK, and I've been building software for around 25 years — mostly Apple platforms and Ruby. I'm a Staff Software Engineer (iOS) at Community.com, where I own the iOS app.
 
-You can view more about my experience and skills on [my website](http://lukeredpath.co.uk) and on my [LinkedIn profile](https://www.linkedin.com/in/lukeredpath/).
+Before that I ran my own contracting business, LJR Software, for about twelve years, working across iOS, Ruby on Rails and API design.
